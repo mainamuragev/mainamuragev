@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...code
 - 🌱 I’m currently learning ...code 
 - 💞️ I’m looking to collaborate on ...anything that brings money and  solves a problem 
-- 📫 How to reach me ...instagram @mainamurage_ gmail @muragevincent39.com
+- 📫 How to reach me ...instagram @mainamurage_ ,gmail @muragevincent39.com
 - 😄 Pronouns: ...male 
 - ⚡ Fun fact: ... don't put that pinapple on my pizza.
 

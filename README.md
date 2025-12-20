@@ -75,8 +75,5 @@ With a foundation in **Mechanical Engineering**, I bring an analytical and syste
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mainamurage_)  
 
 📍 **Nairobi, Kenya**  
-📧 **mainamurage@example.com** *(Replace with your actual email)*  
+📧 **muragevincent39@gmail.com**
 
----
-
-![Snake animation](https://github.com/mainamuragev/mainamuragev/blob/output/github-contribution-grid-snake.svg)

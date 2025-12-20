@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Maina Murage
 
-💡 **Big Data Engineer**  
+ **Big Data Engineer**  
 With a foundation in **Mechanical Engineering**, I bring an analytical and systems-oriented mindset to data. Passionate about architecting scalable, efficient data systems and making data actionable. I build robust pipelines, automate complex workflows, and advocate for clear documentation to empower data-driven decisions.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Querying**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,16 +41,16 @@ With a foundation in **Mechanical Engineering**, I bring an analytical and syste
 
 ---
 
-## 📈 Project Impact & Expertise
+##  Project Impact & Expertise
 
-- **🔧 Scalable Pipeline Architecture**: Designed and documented a cloud-based ELT pipeline on **Azure (Data Factory, Databricks)** that automated ingestion from 10+ sources, reducing manual reporting workload by **15+ hours per week**.  
-- **🚀 Data Platform Modernization**: Migrated legacy on-premise ETL processes to a **Snowflake** and **dbt** cloud stack, improving data freshness from daily to near-real-time and optimizing compute costs by **~20%**.  
-- **⚡ Performance & Systems Exploration**: Actively learning **Rust** to build high-performance, memory-safe data tooling and expand into systems programming.  
-- **📖 Documentation & Reproducibility**: A strong advocate for clear documentation, data lineage tracking, and creating reproducible workflows to ensure system reliability and team efficiency.  
+- ** Scalable Pipeline Architecture**: Designed and documented a cloud-based ELT pipeline on **Azure (Data Factory, Databricks)** that automated ingestion from 10+ sources, reducing manual reporting workload by **15+ hours per week**.  
+- ** Data Platform Modernization**: Migrated legacy on-premise ETL processes to a **Snowflake** and **dbt** cloud stack, improving data freshness from daily to near-real-time and optimizing compute costs by **~20%**.  
+- ** Performance & Systems Exploration**: Actively learning **Rust** to build high-performance, memory-safe data tooling and expand into systems programming.  
+- ** Documentation & Reproducibility**: A strong advocate for clear documentation, data lineage tracking, and creating reproducible workflows to ensure system reliability and team efficiency.  
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <picture>
   <source
@@ -68,7 +68,7 @@ With a foundation in **Mechanical Engineering**, I bring an analytical and syste
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mainamuragev)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainamurage-dataengineer)  

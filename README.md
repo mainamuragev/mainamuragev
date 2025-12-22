@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maina Murage
+#  Hi, I'm Maina Murage
 
 **Big Data Engineer**  
 With a foundation in **Mechanical Engineering**, I bring an analytical and systems-oriented mindset to data. Passionate about architecting scalable, efficient data systems and making data actionable. I build robust pipelines, automate complex workflows, and advocate for clear documentation to empower data-driven decisions.

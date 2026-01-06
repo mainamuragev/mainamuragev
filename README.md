@@ -23,7 +23,7 @@ With a foundation in **Mechanical Engineering**, I bring a rigorous, systems-ori
 
 *Building robust batch and real-time data pipelines at scale.*
 
-### ☁️ Cloud & Data Platforms
+###  Cloud & Data Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
@@ -55,13 +55,12 @@ With a foundation in **Mechanical Engineering**, I bring a rigorous, systems-ori
 
 ##  **Featured Projects**
 
-### 
-Scalable Azure ELT Pipeline
+###  Scalable Azure ELT Pipeline
 *Designed and documented a cloud-based ELT pipeline on **Azure (Data Factory, Databricks)** automating ingestion from 10+ heterogeneous sources.*  
 **Impact**: Reduced manual reporting workload by **15+ hours/week** with automated quality checks and alerting.  
 **Key Challenge**: Handling schema evolution and partial failures gracefully across diverse source systems.
 
-###  Snowflake Data Platform Modernization
+### ❄️ Snowflake Data Platform Modernization
 *Migrated legacy ETL processes to a **Snowflake + dbt Cloud** stack with incremental modeling.*  
 **Impact**: Improved data freshness from daily to near-real-time while cutting compute costs by **~20%**.  
 **Key Challenge**: Rewriting complex business logic with idempotent, incremental dbt models.
@@ -73,10 +72,12 @@ Scalable Azure ELT Pipeline
 ---
 
 ##  **Project Portfolio**
-*Detailed implementations, code samples, and architecture diagrams are available in my repositories:*
-- [Azure ELT Pipeline](https://github.com/mainamurage/azure-elt-pipeline) *(Replace with actual link)*
-- [dbt Snowflake Modernization](https://github.com/mainamurage/dbt-snowflake-modernization) *(Replace with actual link)*
-- [Rust Data Tools](https://github.com/mainamurage/rust-data-tools) *(Replace with actual link)*
+*Detailed implementations, code samples, and architecture diagrams are available in my repositories. [Follow me on GitHub](https://github.com/mainamuragev) for updates.*
+
+* **Replace these with your actual project links:***
+- [Azure ELT Pipeline](#) – *Add your actual repository link here*
+- [dbt Snowflake Modernization](#) – *Add your actual repository link here*
+- [Rust Data Tools](#) – *Add your actual repository link here*
 
 ---
 
@@ -84,9 +85,11 @@ Scalable Azure ELT Pipeline
 
  **Nairobi, Kenya** | Open to Remote & Hybrid Opportunities  
  **Email**: [muragevincent39@gmail.com](mailto:muragevincent39@gmail.com)  
- **LinkedIn**: [linkedin.com/in/mainamurage](https://linkedin.com/in/mainamurage)  
- **GitHub**: [github.com/mainamurage](https://github.com/mainamurage)  
+ **LinkedIn**: [linkedin.com/in/mainamurage-dataengineer](https://linkedin.com/in/mainamurage-dataengineer)  
+ **GitHub**: [github.com/mainamuragev](https://github.com/mainamuragev)  
 
 **Open to collaborating** on interesting data infrastructure projects and discussions about data engineering, cloud architecture, or systems programming!
 
 ---
+
+*Last Updated: January 2024*

@@ -1,82 +1,91 @@
 # 👋 Hi, I'm Maina Murage  
-**Big Data Engineer | Cloud-Native Architect | ETL/Streaming Specialist**
+**Big Data Engineer | Architecting Scalable, Reliable Data Platforms for Data-Driven Decisions**
 
-With a foundation in **Mechanical Engineering**, I bring an analytical and systems-oriented mindset to data.  
-I architect scalable pipelines, automate complex workflows, and advocate for clear documentation to empower data-driven decisions.
+With a foundation in **Mechanical Engineering**, I bring a rigorous, systems-oriented mindset to data infrastructure. I specialize in designing cloud-native data pipelines, automating complex workflows, and championing documentation and reliability practices.
 
 ---
 
-## 🖥️ Languages & Querying
+## 🛠️ **Core Competencies**
+
+### 🖥️ Languages & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
-*Core scripting and querying languages for data engineering and systems programming.*
+*Core scripting, systems programming, and advanced querying for data engineering.*
 
----
-
-## ⚡ Data Processing & Streaming
+### ⚡ Data Processing & Streaming
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)  
 
-*Tools for large-scale batch and real-time data pipelines.*
+*Building robust batch and real-time data pipelines at scale.*
 
----
-
-## ☁️ Cloud & Data Platforms
+### ☁️ Cloud & Data Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
 
-*Experience across multi-cloud environments and modern data warehouses.*
+*Multi-cloud data architecture and modern data warehousing solutions.*
 
----
-
-## 🔗 APIs, Orchestration & Deployment
+### 🔗 APIs, Orchestration & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) 
-![Prefect](https://img.shields.io/badge/Prefect-000000?style=for-the-badge&logo=prefect&logoColor=white) 
-![Dagster](https://img.shields.io/badge/Dagster-1E90FF?style=for-the-badge&logo=dagster&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-*Building services and orchestrating workflows for reliable delivery.*
-
----
-
-## ⚙️ Tooling & Workflow
-- **Workflow Orchestration**: Airflow, Prefect, Dagster  
-- **Data Transformation & Modeling**: dbt, SQL scripting  
-- **Automation**: Shell scripting, cron jobs  
-- **CI/CD**: GitHub Actions, Azure DevOps, Jenkins  
-- **Infrastructure & Deployment**: Docker, Kubernetes basics  
-- **Version Control**: Advanced Git (history rewriting, secret scrubbing)  
-- **Monitoring & Observability**: Defensive error handling, structured logging, metric validation  
+*Building data services and orchestrating reliable, production-grade workflows.*
 
 ---
 
-## 🚀 Project Highlights
-- **Scalable Pipeline Architecture**: Designed and documented a cloud-based ELT pipeline on **Azure (Data Factory, Databricks)** automating ingestion from 10+ sources, reducing manual reporting workload by **15+ hours per week**.  
-- **Data Platform Modernization**: Migrated legacy ETL processes to **Snowflake + dbt cloud stack**, improving data freshness from daily to near-real-time and cutting compute costs by **~20%**.  
-- **Performance Exploration**: Actively learning **Rust** to build high-performance, memory-safe data tooling.  
-- **Documentation & Reliability**: Advocate for reproducible workflows, lineage tracking, and clear system documentation.  
+## ⚙️ **Engineering Practices & Tooling**
+
+- **Orchestration & Workflow**: **Apache Airflow**, Prefect, Dagster  
+- **Data Transformation**: **dbt**, SQL  
+- **Infrastructure & Deployment**: **Docker**, Kubernetes, Terraform  
+- **CI/CD**: **GitHub Actions**, Azure DevOps, Jenkins  
+- **Version Control**: **Advanced Git** (history rewriting, secret management)  
+- **Monitoring & Reliability**: Structured logging, metric validation, alerting  
+- **Documentation**: Pipeline lineage, runbooks, data dictionaries  
 
 ---
 
-## 📌 Featured Projects
-- [Azure ELT Pipeline](#) – Automated ingestion from 10+ sources.  
-- [Snowflake Modernization](#) – Migrated legacy ETL to dbt + Snowflake.  
-- [Rust Data Tools](#) – Exploring high-performance systems programming.  
+## 🚀 **Featured Projects**
+
+### 🔄 Scalable Azure ELT Pipeline
+*Designed and documented a cloud-based ELT pipeline on **Azure (Data Factory, Databricks)** automating ingestion from 10+ heterogeneous sources.*  
+**Impact**: Reduced manual reporting workload by **15+ hours/week** with automated quality checks and alerting.  
+**Key Challenge**: Handling schema evolution and partial failures gracefully across diverse source systems.
+
+### ❄️ Snowflake Data Platform Modernization
+*Migrated legacy ETL processes to a **Snowflake + dbt Cloud** stack with incremental modeling.*  
+**Impact**: Improved data freshness from daily to near-real-time while cutting compute costs by **~20%**.  
+**Key Challenge**: Rewriting complex business logic with idempotent, incremental dbt models.
+
+### 🦀 High-Performance Data Tooling (Rust)
+*Exploring **Rust** for building memory-safe, high-throughput data processing utilities.*  
+**Current Focus**: CLI tools for data validation and pipeline health checks with native performance.
 
 ---
 
-## 📫 Connect
-- 📍 Nairobi, Kenya  
-- ✉️ [muragevincent39@gmail.com](mailto:muragevincent39@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/mainamurage)  
-- 🐙 [GitHub](https://github.com/mainamurage)  
+## 📊 **Project Portfolio**
+*Detailed implementations, code samples, and architecture diagrams are available in my repositories:*
+- [Azure ELT Pipeline](https://github.com/mainamurage/azure-elt-pipeline) *(Replace with actual link)*
+- [dbt Snowflake Modernization](https://github.com/mainamurage/dbt-snowflake-modernization) *(Replace with actual link)*
+- [Rust Data Tools](https://github.com/mainamurage/rust-data-tools) *(Replace with actual link)*
+
+---
+
+## 📫 **Connect & Collaborate**
+
+📍 **Nairobi, Kenya** | Open to Remote & Hybrid Opportunities  
+✉️ **Email**: [muragevincent39@gmail.com](mailto:muragevincent39@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/mainamurage](https://linkedin.com/in/mainamurage)  
+🐙 **GitHub**: [github.com/mainamurage](https://github.com/mainamurage)  
+
+**Open to collaborating** on interesting data infrastructure projects and discussions about data engineering, cloud architecture, or systems programming!
+
+---

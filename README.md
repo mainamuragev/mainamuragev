@@ -70,15 +70,6 @@ With a foundation in **Mechanical Engineering**, I bring a rigorous, systems-ori
 **Current Focus**: CLI tools for data validation and pipeline health checks with native performance.
 
 ---
-
-##  **Project Portfolio**
-*Detailed implementations, code samples, and architecture diagrams are available in my repositories. [Follow me on GitHub](https://github.com/mainamuragev) for updates.*
-
-* **Replace these with your actual project links:***
-- [Azure ELT Pipeline](#) – *Add your actual repository link here*
-- [dbt Snowflake Modernization](#) – *Add your actual repository link here*
-- [Rust Data Tools](#) – *Add your actual repository link here*
-
 ---
 
 ##  **Connect & Collaborate**

@@ -1,5 +1,5 @@
 # Maina Murage  
-**Big Data Engineer | Architecting Scalable, Reliable Data Platforms for Data-Driven Decisions**
+**Big Data Engineer | Architecting , Reliable Data Platforms .**
 
 With a foundation in **Mechanical Engineering**, I bring a rigorous, systems-oriented mindset to data infrastructure. I specialize in designing cloud-native data pipelines, automating complex workflows, and championing documentation and reliability practices.
 
